@@ -32,8 +32,7 @@ This project was built and executed in Google Colab.
 
 ## 💾 Pre-trained Weights
 You can download the trained `.pth` and `.pt` files to test the inference engine immediately:
-* [Link to YOLOv8 Weights] *(Insert your Google Drive share link here)*
-* [Link to Custom U-Net Weights] *(Insert your Google Drive share link here)*
+* [Download Model Weights from Google Drive](https://drive.google.com/drive/folders/1W2uF-ZRenAhqJjdRa5Yr5vjbQgkfFyCO?usp=sharing) (Contains both YOLO `.pt` and U-Net `.pth` files)
 
 ## 👥 Authors
 * **R Sarang**
