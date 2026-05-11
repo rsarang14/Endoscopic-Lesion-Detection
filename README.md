@@ -36,6 +36,5 @@ You can download the trained `.pth` and `.pt` files to test the inference engine
 * [Link to Custom U-Net Weights] *(Insert your Google Drive share link here)*
 
 ## 👥 Authors
-* **Pratyush Mandal**
 * **R Sarang**
 * *Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Kancheepuram*
